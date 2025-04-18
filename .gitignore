@@ -1,0 +1,10 @@
+*.sh
+*.txt
+*.pkl
+*.png
+*.csv
+.~lock.*
+e*.py
+!requirements.txt
+!dataset*
+/results
